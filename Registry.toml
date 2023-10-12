@@ -4,3 +4,4 @@ repo = "git@gitlab.in2p3.fr:jipolanco/VortexRegistry.jl.git"
 description = "Private registry for fluid simulation packages"
 
 [packages]
+3d0f1e53-df37-477e-a492-0d33e6039c24 = { name = "VortexPasta", path = "V/VortexPasta" }
