@@ -1,0 +1,6 @@
+name = "VortexRegistry"
+uuid = "9aa079e5-e3ed-4a28-bc81-d3c5f4bc6599"
+repo = "git@gitlab.in2p3.fr:jipolanco/VortexRegistry.jl.git"
+description = "Private registry for fluid simulation packages"
+
+[packages]
