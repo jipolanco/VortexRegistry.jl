@@ -1,7 +1,7 @@
 name = "VortexRegistry"
 uuid = "9aa079e5-e3ed-4a28-bc81-d3c5f4bc6599"
-repo = "git@gitlab.in2p3.fr:jipolanco/VortexRegistry.jl.git"
-description = "Private registry for fluid simulation packages"
+repo = "git@github:jipolanco/VortexRegistry.jl.git"
+description = "Registry for fluid simulation related packages"
 
 [packages]
 3d0f1e53-df37-477e-a492-0d33e6039c24 = { name = "VortexPasta", path = "V/VortexPasta" }
