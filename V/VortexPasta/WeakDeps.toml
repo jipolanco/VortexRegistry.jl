@@ -4,3 +4,6 @@ Observables = "510215fc-4207-5dde-b226-833fc4488ee2"
 
 ["0.24 - 0"]
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+
+["0.24.4 - 0"]
+ThreadPinning = "811555cd-349b-4f26-b7bc-1f208b848042"
