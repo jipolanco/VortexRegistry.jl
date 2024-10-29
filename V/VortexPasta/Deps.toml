@@ -3,7 +3,6 @@ AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
 Bumper = "8ce10254-0962-460f-a3d8-1f77fea1446e"
 CommonSolve = "38540f10-b2f7-11e9-35d8-d573e4eb0ff2"
 FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
-FINUFFT = "d8beea63-0952-562e-9c6a-8e8ef7364055"
 FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
 HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
@@ -16,6 +15,9 @@ TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
 
 ["0 - 0.19.0"]
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
+["0 - 0.24.6"]
+FINUFFT = "d8beea63-0952-562e-9c6a-8e8ef7364055"
 
 ["0.11 - 0"]
 NonuniformFFTs = "cd96f58b-6017-4a02-bb9e-f4d81626177f"
