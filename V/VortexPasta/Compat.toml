@@ -148,9 +148,11 @@ ChunkSplitters = "2.4.0 - 2"
 FINUFFT = "3.1.0 - 3"
 
 ["0.23 - 0"]
-Polyester = "0.7"
 Static = ["0.8", "1"]
 julia = "1.10.0 - 1"
+
+["0.23 - 0.26"]
+Polyester = "0.7"
 
 ["0.24 - 0"]
 Adapt = "4.0.4 - 4"
@@ -188,6 +190,9 @@ OhMyThreads = "0.7"
 ["0.26.8 - 0"]
 OhMyThreads = "0.7 - 0.8"
 
+["0.27 - 0"]
+ForwardDiff = ["0.10", "1"]
+
 ["0.5 - 0.8.0"]
 Bumper = "0.4"
 
@@ -205,7 +210,9 @@ Bumper = "0.4-0.6"
 
 ["0.9 - 0"]
 FastGaussQuadrature = "1"
-ForwardDiff = "0.10"
 
 ["0.9 - 0.19.0"]
 HCubature = "1.5.0-1"
+
+["0.9 - 0.26"]
+ForwardDiff = "0.10"
