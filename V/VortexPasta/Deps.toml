@@ -27,7 +27,7 @@ NonuniformFFTs = "cd96f58b-6017-4a02-bb9e-f4d81626177f"
 ["0.18.2 - 0"]
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 
-["0.19 - 0"]
+["0.19 - 0.29.6"]
 ChunkSplitters = "ae650224-84b6-46f8-82ea-d812ca08434e"
 
 ["0.19.2 - 0.29.4"]
@@ -53,6 +53,9 @@ OhMyThreads = "67456a42-1dca-4109-a031-0a68de7e3ad5"
 HostCPUFeatures = "3e5b6fbb-0976-4d2c-9146-d79de83f2fb0"
 SIMD = "fdea26ae-647d-5447-a871-4b548cad5224"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
+["0.29.7 - 0"]
+Atomix = "a9b6321e-bd34-4604-b9c9-b65b8de01458"
 
 ["0.9 - 0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
