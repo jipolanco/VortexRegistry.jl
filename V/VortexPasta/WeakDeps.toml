@@ -16,5 +16,10 @@ Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 
 ["0.32.18-0"]
 AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
-CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 OpenCL = "08131aa3-fb12-5dee-8b74-c09406e224a2"
+
+["0.32.18-0.33.1"]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+
+["0.33.2-0"]
+CUDACore = "bd0ed864-bdfe-4181-a5ed-ce625a5fdea2"
