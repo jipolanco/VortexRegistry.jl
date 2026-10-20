@@ -115,7 +115,7 @@ NonuniformFFTs = "0.8.2-0.8"
 ["0.30.1-0"]
 NonuniformFFTs = "0.8.2-0.9"
 
-["0.31-0"]
+["0.31-0.34.19"]
 KernelAbstractions = "0.9.32-0.9"
 
 ["0.32.1-0.34.16"]
@@ -132,6 +132,9 @@ AcceleratedKernels = "0.4.3-0.5"
 
 ["0.34.19-0"]
 LLVM = "9.4.4-10"
+
+["0.34.20-0"]
+KernelAbstractions = "0.9.32-0.10"
 
 ["0.5-0.8.0"]
 Bumper = "0.4"
